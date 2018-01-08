@@ -1,0 +1,2 @@
+class Snitch:
+    raise NotImplemented
